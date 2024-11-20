@@ -1,0 +1,4 @@
+TotalTransactions,TotalSpent,CustomerType
+176,95874.60,Gold
+184,101985.64,Bronze
+200,112573.44,Silver

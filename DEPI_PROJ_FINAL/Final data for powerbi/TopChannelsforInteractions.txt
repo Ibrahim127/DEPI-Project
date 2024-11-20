@@ -1,0 +1,5 @@
+InteractionChannel,Total_Interactions
+Email,140
+Web,140
+Chat,140
+Phone,140
